@@ -1,0 +1,43 @@
+{
+	"fileVersion": 14,
+	"versionSuffix": "",
+	"title": "Shockball",
+	"description": "",
+	"keyArt": "",
+	"docsUrl": "",
+	"kind": "Island",
+	"templateCategory": "UserGenerated",
+	"compatibilityVersion": "28.30",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"plugins": [
+		{
+			"name": "Shockball",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 6,
+			"maxTeamCount": 2,
+			"maxTeamSize": 6,
+			"maxSocialPartySize": 6,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "273cd831-46f9-7c46-14af-12ae33d43574",
+		"projectVersePath": "",
+		"modules":
+		{
+			"Shockball": "17a484fc-4650-ab01-2327-d382106686f5"
+		}
+	}
+}
